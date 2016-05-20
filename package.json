@@ -1,0 +1,12 @@
+{
+  "name": "juicywater",
+  "description": "spicyjuicywater",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/sspicyyy"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
